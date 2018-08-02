@@ -12,7 +12,9 @@ This project is fully develop in Matlab and should work both in windows/mac oper
 # Explanation of the system 
 
 A database of songs is created for identify a piece of track that may match with one of the songs of this database.This is inside  a server-first device.
-It's determined the song that fits best the fingerprint features of the clip and proceed to be encoded a watermark sequence via a secret key.A new audio is created and shared to the device that intially gave the clip or other who has the decoding app,whoever is will act the role of slave.The decoding app detects the watermark so it can be uploaded to the user the features of actual time song and the actual chord of the song (in this prototype is not the exact and is randomly generated).
+It's determined the song that fits best the fingerprint features of the clip and proceed to be encoded a watermark sequence via a secret key.
+A new audio is created and shared to the device that intially gave the clip or other who has the decoding app,whoever is will act the role of slave.
+The decoding app detects the watermark so it can be uploaded to the user the features of actual time song and the actual chord of the song (in this prototype is not the exact and is randomly generated).
 
 # Installing
 # Running the Apps
