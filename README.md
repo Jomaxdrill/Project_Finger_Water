@@ -5,7 +5,9 @@ Code implementation is based on the following sites: https://github.com/israkir/
 
 # What is necessary
 This project is fully develop in Matlab and should work both in windows/mac operating systems.However it's important that:
+
 -The Matlab version is at least R2017a as it supports the use of simulink for program all android devices.
+
 -Install the Simulink Support Package for Android Devices: Search in matlab on the Add Ons option for it.
 # Case of Study
 A database of songs is created 
