@@ -56,6 +56,16 @@ In future release f the mobile app  we'll implement TCP/IP or UDP protocol to se
 
 In both cases run the app , PC version began the decoding process by pushing the Decode button and app iniates automatically.
 
+# Author
+
+Jonathan Leonard Crespo Eslava
+
+License
+GPL Version 3.
+
+# Acknowledgments
+
+SERVETTI ANTONIO-Professor of Automatic & Informatics department Politecnico di Torino
 
 
 
