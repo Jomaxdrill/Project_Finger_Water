@@ -20,7 +20,7 @@ A new audio is created and shared to the device that intially gave the clip or o
 
 The decoding app detects the watermark so it can be uploaded to the user the features of actual time song and the actual chord of the song (in this prototype is not the exact and is randomly generated).
 
-# Divsion of the prototype System by Application
+# Division of the prototype System by Application
 
 ## Audio Fingerprinting identification
 Application for PC called "Fingerprinting_1_0.mlapp" that takes from the microphone of the first device (that should be your PC) a random clip or a random segment of the song and returns the best fit song with its code of identification, in this case its index in the database.
@@ -55,6 +55,16 @@ For now, for prototype limitations because of the restricted payload size blueto
 In future release f the mobile app  we'll implement TCP/IP or UDP protocol to send the info or  a code that send the data in encoder ,in decoder one that receives this data via bluetooth so it can be read from internal storage and the write in a variable of the activity.
 
 In both cases run the app , PC version began the decoding process by pushing the Decode button and app iniates automatically.
+
+# Future release improvements
+For the sending the audio watermarked:
+
+Implement a better communication protocol that can deal better with the payload size of the quantity of samples per block.
+
+Also an activity that reads a prior the decoder parameters if we consider that the user should have access to them when encoding.
+
+Design of the use of Generalized cross-correlation for improve synchronization in real time as has convenient properties to detect better the lags between first device signal and second device received.
+
 
 # Author
 
