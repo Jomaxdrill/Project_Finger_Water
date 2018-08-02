@@ -82,6 +82,8 @@ Design of the use of Generalized cross-correlation phase transform for improve s
 
 Create a web database for the songs.
 
+Add to the database the corresponding chords of each song.
+
 
 # Author
 
