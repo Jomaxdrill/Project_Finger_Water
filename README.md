@@ -63,7 +63,7 @@ Implement a better communication protocol that can deal better with the payload 
 
 Also an activity that reads a prior the decoder parameters if we consider that the user should have access to them when encoding.
 
-Design of the use of Generalized cross-correlation for improve synchronization in real time as has convenient properties to detect better the lags between first device signal and second device received.
+Design of the use of Generalized cross-correlation phase transform for improve synchronization in real time as has convenient properties to detect better the lags between first device signal and second device received.
 
 
 # Author
