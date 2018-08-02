@@ -69,6 +69,8 @@ Also an activity that reads a prior the decoder parameters if we consider that t
 
 Design of the use of Generalized cross-correlation phase transform for improve synchronization in real time as has convenient properties to detect better the lags between first device signal and second device received.
 
+Create a web database for the songs.
+
 
 # Author
 
