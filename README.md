@@ -58,7 +58,18 @@ For now, for prototype limitations because of the restricted payload size blueto
 
 In future release f the mobile app  we'll implement TCP/IP or UDP protocol to send the info or  a code that send the data in encoder ,in decoder one that receives this data via bluetooth so it can be read from internal storage and the write in a variable of the activity.
 
-In both cases run the app , PC version began the decoding process by pushing the Decode button and app iniates automatically.
+In both cases run the app , PC version began the decoding process by pushing the Decode button and app iniates automatically. 
+
+### Run the app in moible phone
+
+https://it.mathworks.com/help/supportpkg/android/ug/run-model-on-android-hardware.html
+
+In the Simulink Editor search for Simulation > Model Configuration Parameters
+
+In the Configuration Parameter dialog box, click Hardware Implementation. Set Hardware board to Android Device. Then, click OK.
+
+Click Deploy to Hardware.
+
 
 # Future release improvements
 For the sending the audio watermarked:
