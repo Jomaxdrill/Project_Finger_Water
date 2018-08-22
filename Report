@@ -33,10 +33,14 @@ via usb is fine por prototype purporses.
 INTRODUCTION 
 Stenography is the science of those techniques that allow you to hide information in objects so that they are not perceptible. 
 It is a recent field where their increased use has been for protection of information along with recognition techniques. 
-However, in recent years it comes finding development for the improvement of the multimedia experience with intelligent electronic devices. This is the case of automatic recognition of content for interaction in secondary displays. These last ones which can be smartphones, tablets, consoles, among others. The functions of the different interactions between bases have strong foundation in the technologies that will cover this final project thesis: watermarking and fingerprinting. 
-In their deployments, interactions with secondary screens are prone to factors as delayed synchronization of contents, robustness to 
-noise and interference, quality of output, drifting among others. A relative amount of algorithms that can compensate 
-for these problems under certain trade offs have been established. The complexity, computational cost, robustness and performance, 
-differ a lot of depending the methods has required additional approaches to improve the efficiency 
-of the operation in an application that is used, which is precisely what seeks to verify and investigate in this thesis, 
-in this case trying to as the primary type of work audio.
+However, in recent years it comes finding development for the improvement of the multimedia experience with intelligent electronic devices. This is the case of automatic recognition of content for interaction in secondary displays. These last ones which can be smartphones, tablets, consoles, among others. 
+The functions of the different interactions between bases have strong foundation in the technologies that will cover this final project thesis: watermarking and fingerprinting. 
+
+In their deployments, interactions with secondary screens are prone to factors as delayed synchronization of contents, robustness 
+to noise and interference, quality of output, drifting among others. A relative amount of algorithms that can 
+compensate for these problems under certain trade offs have been established. The complexity, computational cost, robustness 
+and performance, differ a lot of depending the methods has required additional approaches to improve the efficiency 
+of the operation in an application that is used, which is precisely what seeks to verify 
+and investigate in this thesis, in this case trying to as the primary type of work audio.
+
+
