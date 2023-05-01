@@ -5,7 +5,7 @@ Avery Li-chun Wang; "An Industrial-Strength Audio Search Algorithm" ,2003.
 
 Ingemar J. Cox, Senior Member, IEEE, Joe Kilian, F. Thomson Leighton, and Talal Shamoon, Member, IEEE ;Secure Spread Spectrum Watermarking for Multimedia,1997.
 
-We overall try to to the extending to audio data of the watermarked tecnique designed by the last citation mentioned.
+We overall try to extende the audio data of the watermarked tecnique designed by the last citation mentioned.
 
 Code implementation is based on the following sites: https://github.com/israkir/cox-watermarking and https://www.princeton.edu/~cuff/ele201/labs.html
 
