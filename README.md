@@ -62,7 +62,7 @@ In future release f the mobile app  we'll implement TCP/IP or UDP protocol to se
 
 In both cases run the app , PC version began the decoding process by pushing the Decode button and app iniates automatically. 
 
-### Run the app in moible phone
+### Run the app in mobile phone
 
 https://it.mathworks.com/help/supportpkg/android/ug/run-model-on-android-hardware.html
 
