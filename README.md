@@ -98,7 +98,10 @@ GPL Version 3.
 
 SERVETTI ANTONIO-Professor of Automatic & Informatics department Politecnico di Torino
 
-
+# Video Links
+Part1 Project presentation
+Part2 Mobile implementation excercise
+https://drive.google.com/drive/folders/1SthU6M-ecyRjge_lSwaOrudSYjSWncv1?usp=sharing
 
 
 
