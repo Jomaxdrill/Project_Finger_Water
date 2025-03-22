@@ -30,8 +30,12 @@ The decoding app detects the watermark so it can be uploaded to the user the fea
 
 ## Audio Fingerprinting identification
 Application for PC called "Fingerprinting_1_0.mlapp" that takes from the microphone of the first device (that should be your PC) a random clip or a random segment of the song and returns the best fit song with its code of identification, in this case its index in the database.
+
+![image](https://github.com/user-attachments/assets/3c38d292-4095-47f2-806d-e4e7b6f8ab4b)
+
 ## Spread spectrum Encoder
 Also part of the master-first device.Called as "Encoder.mlapp".Takes the outuput of the Audio Fingerprinting process.Returns a wav file called "audio_watermarked.wav" and a .mat file "decoder.mat" that must be sent to the second-slave devices. 
+
 ## Spread spectrum decoder
 Has a PC version called "Decoder.mlapp" and android mobile app version done in simulink called "decoderapp.slx" .Only for the considered second devicethat actually represents. Receive the watermarked song and decoding parameters to get the features of actual time and chord of the song.Returns also value of the success rate in the PC version.
 
@@ -51,6 +55,8 @@ We recommend for bits of watermark 8,Frame Size 0.1  and Watermark factor 0.2 as
 
 Push the watermark audio button and wait for being done and that the plot appears. Once this happens push the create watermark button.This is ll create the two files that the decoder ll use to get the watermark. 
 
+
+![image](https://github.com/user-attachments/assets/6d2da19c-ed87-4be9-a8d3-5beef0e96c3b)
 ## Decoder
 Send it via bluetooth the outputs of Encoder app, the wav file and decoder.mat, by the bluetooth windows interface for example (this means yo must connect the devices before) if your second device is a PC ,what's impotant is to make this audio and info will be in the same folder as the Decoder app ll be.
 
@@ -62,6 +68,9 @@ In future release f the mobile app  we'll implement TCP/IP or UDP protocol to se
 
 In both cases run the app , PC version began the decoding process by pushing the Decode button and app iniates automatically. 
 
+
+![image](https://github.com/user-attachments/assets/7167b26e-5ad8-4c39-9943-b401ea23202d)
+
 ### Run the app in mobile phone
 
 https://it.mathworks.com/help/supportpkg/android/ug/run-model-on-android-hardware.html
@@ -71,6 +80,7 @@ In the Simulink Editor search for Simulation > Model Configuration Parameters
 In the Configuration Parameter dialog box, click Hardware Implementation. Set Hardware board to Android Device. Then, click OK.
 
 Click Deploy to Hardware.
+![image](https://github.com/user-attachments/assets/2b4b5569-fa12-4dd9-b052-0f48096e153d)
 
 
 # Future release improvements
